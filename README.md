@@ -34,6 +34,7 @@
 
 ---
 ### 💻 Activities
+- **Coming Soon**
 
 ---
 
