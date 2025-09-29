@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋, I'm Myeongjin Song!
+  Hi👋, I'm Myungjin Song!
 </h1>
 
 <p align="center">
